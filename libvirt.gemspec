@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "libvirt"
 
   s.add_dependency "ffi", "~> 0.6.3"
-  s.add_dependency "nokogiri", "~> 1.4.3"
+  s.add_dependency "nokogiri", "~> 1.5.2"
 
   s.add_development_dependency "protest", "~> 0.4.0"
   s.add_development_dependency "mocha", "~> 0.9.8"
